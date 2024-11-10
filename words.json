@@ -1,0 +1,78 @@
+{
+    "programming": [
+      "php",
+      "javascript",
+      "go",
+      "scala",
+      "fortran",
+      "r",
+      "mysql",
+      "python",
+      "ruby",
+      "typescript",
+      "java"
+    ],
+    "movies": [
+      "Prestige",
+      "Inception",
+      "Parasite",
+      "Interstellar",
+      "Whiplash",
+      "Memento",
+      "Coco",
+      "Up",
+      "Avatar",
+      "Gladiator",
+      "Titanic"
+    ],
+    "people": [
+      "Albert Einstein",
+      "Hitchcock",
+      "Alexander",
+      "Cleopatra",
+      "Mahatma Gandhi",
+      "Martin Luther King",
+      "Leonardo da Vinci",
+      "Charles Darwin",
+      "Nikola Tesla",
+      "Isaac Newton"
+    ],
+    "countries": [
+      "Syria",
+      "Palestine",
+      "Yemen",
+      "Egypt",
+      "Bahrain",
+      "Qatar",
+      "Canada",
+      "Argentina",
+      "Brazil",
+      "Thailand",
+      "Vietnam"
+    ],
+    "animals": [
+      "Elephant",
+      "Giraffe",
+      "Kangaroo",
+      "Penguin",
+      "Rhinoceros",
+      "Dolphin",
+      "Eagle",
+      "Zebra",
+      "Leopard",
+      "Cheetah"
+    ],
+    "sports": [
+      "Football",
+      "Basketball",
+      "Tennis",
+      "Baseball",
+      "Hockey",
+      "Golf",
+      "Cricket",
+      "Boxing",
+      "Rugby",
+      "Cycling"
+    ]
+  }
+  
